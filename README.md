@@ -1,2 +1,2 @@
-# cosmos-les-validateurs-francophone
-La liste des validateurs francophone de l'ecosysteme Cosmos
+# cosmos-les-validateurs-francophones
+La liste des validateurs francophones de l'ecosysteme Cosmos
