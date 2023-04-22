@@ -1,6 +1,8 @@
 # cosmos-les-validateurs-francophones
 La liste des validateurs francophones de l'ecosysteme Cosmos (CosmosHub, Osmosis, Secret Network, ...).
 
+*Cette liste contient uniquement les chaines en mainnet et non le testnet*
+
 ### <img alt="" src="https://raw.githubusercontent.com/cosmostation/chainlist/main/chain/akash/chainImg/logoImg/chainLogoImg.png" width="30" height="30"> Akash
 
 &emsp; [Imperator.co](https://imperator.co): [Stake](https://wallet.keplr.app/chains/akash?modal=validator&chain=akashnet-2&validator_address=akashvaloper1enhj36w6clcm5fjnp87jnffnkthfux2uj88l6h&referral=true) <br/>
